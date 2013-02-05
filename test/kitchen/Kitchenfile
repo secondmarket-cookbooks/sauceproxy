@@ -1,0 +1,3 @@
+cookbook "sauceproxy" do
+  configuration "server"
+end
